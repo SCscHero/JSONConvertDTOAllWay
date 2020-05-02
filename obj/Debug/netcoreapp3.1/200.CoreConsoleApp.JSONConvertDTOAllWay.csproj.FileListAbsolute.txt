@@ -1,0 +1,13 @@
+D:\00070.代码仓\SCscCoreAPI\200.CoreConsoleApp.JSONConvertDTOAllWay\obj\Debug\netcoreapp3.1\200.CoreConsoleApp.JSONConvertDTOAllWay.csprojAssemblyReference.cache
+D:\00070.代码仓\SCscCoreAPI\200.CoreConsoleApp.JSONConvertDTOAllWay\obj\Debug\netcoreapp3.1\200.CoreConsoleApp.JSONConvertDTOAllWay.AssemblyInfoInputs.cache
+D:\00070.代码仓\SCscCoreAPI\200.CoreConsoleApp.JSONConvertDTOAllWay\obj\Debug\netcoreapp3.1\200.CoreConsoleApp.JSONConvertDTOAllWay.AssemblyInfo.cs
+D:\00070.代码仓\SCscCoreAPI\200.CoreConsoleApp.JSONConvertDTOAllWay\bin\Debug\netcoreapp3.1\200.CoreConsoleApp.JSONConvertDTOAllWay.exe
+D:\00070.代码仓\SCscCoreAPI\200.CoreConsoleApp.JSONConvertDTOAllWay\bin\Debug\netcoreapp3.1\200.CoreConsoleApp.JSONConvertDTOAllWay.deps.json
+D:\00070.代码仓\SCscCoreAPI\200.CoreConsoleApp.JSONConvertDTOAllWay\bin\Debug\netcoreapp3.1\200.CoreConsoleApp.JSONConvertDTOAllWay.runtimeconfig.json
+D:\00070.代码仓\SCscCoreAPI\200.CoreConsoleApp.JSONConvertDTOAllWay\bin\Debug\netcoreapp3.1\200.CoreConsoleApp.JSONConvertDTOAllWay.runtimeconfig.dev.json
+D:\00070.代码仓\SCscCoreAPI\200.CoreConsoleApp.JSONConvertDTOAllWay\bin\Debug\netcoreapp3.1\200.CoreConsoleApp.JSONConvertDTOAllWay.dll
+D:\00070.代码仓\SCscCoreAPI\200.CoreConsoleApp.JSONConvertDTOAllWay\bin\Debug\netcoreapp3.1\200.CoreConsoleApp.JSONConvertDTOAllWay.pdb
+D:\00070.代码仓\SCscCoreAPI\200.CoreConsoleApp.JSONConvertDTOAllWay\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\00070.代码仓\SCscCoreAPI\200.CoreConsoleApp.JSONConvertDTOAllWay\obj\Debug\netcoreapp3.1\200.CoreConsoleApp.JSONConvertDTOAllWay.csproj.CopyComplete
+D:\00070.代码仓\SCscCoreAPI\200.CoreConsoleApp.JSONConvertDTOAllWay\obj\Debug\netcoreapp3.1\200.CoreConsoleApp.JSONConvertDTOAllWay.dll
+D:\00070.代码仓\SCscCoreAPI\200.CoreConsoleApp.JSONConvertDTOAllWay\obj\Debug\netcoreapp3.1\200.CoreConsoleApp.JSONConvertDTOAllWay.pdb
