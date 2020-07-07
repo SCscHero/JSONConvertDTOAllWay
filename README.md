@@ -1,0 +1,2 @@
+# JSONConvertDTOAllWay
+CSharp将Json字符串转换成可操作性对象的简便方式。
